@@ -1,0 +1,32 @@
+body{
+  background-color: #187498;
+  margin: 0px;
+}
+
+.top_container{
+  margin: 0px;
+  background-color: #E78EA9;
+  height: 200px;
+  width: 200px;
+  border: 10px;
+  border-color: black;
+
+}
+
+.middle_container{
+  background-color: #E8630A;
+  height: 200px;
+  width: 200px;
+  border:20px;
+  border-color: black;
+  margin-left: 200px;
+}
+
+.bottom_container{
+  background-color: #FCD900;
+  height: 200px;
+  width: 200px;
+  border:10px;
+  border-color: black;
+  margin-left: 400px;
+}
